@@ -1,0 +1,13 @@
+body{
+    
+}
+section{
+      
+               width: 2000px; /*largura*/
+                height: 150px; /*altura*/
+                top: 1000px; /*200 pixels a partir do topo da página*/
+                left: 10px; /*100 pixels a partir da margem esquerda da página*/
+                font-size: 12px;
+      }
+
+      
